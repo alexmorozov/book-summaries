@@ -1,2 +1,3 @@
-# book-summaries
-Я тебя запомнил: выжимки из книг.
+# Я тебя запомнил: выжимки из книг.
+
+[Перейти к книгам](https://github.com/alexmorozov/book-summaries/wiki)
